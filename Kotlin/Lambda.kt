@@ -24,5 +24,9 @@ fun main() {
 	val evenNumbersSquared = listOfNumbers.filter {number -> number % 2 == 0}.map {number -> number * number}
 	// print the results
 	System.out.println(evenNumbersSquared)
+	
+	// another example
+	val sumLambda: (Int, Int) -> Int = { a, b -> a + b }
+	val result = sumLambda(2, 3)	
 }
 
