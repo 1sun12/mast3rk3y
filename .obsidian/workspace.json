@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -151,12 +151,12 @@
               "title": "Outline of README"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,7 +171,24 @@
   },
   "active": "12dd66c35b57a52a",
   "lastOpenFiles": [
-    "title_ascii_img.png",
-    "README.md"
+    "04-Resources/Online/Ascii Art Generator.md",
+    "README.md",
+    "04-Resources/Online",
+    "07-Daily/07-Daily.md",
+    "06-School/06-School.md",
+    "05-Career/05-Career.md",
+    "04-Resources/04-Resources.md",
+    "03-Projects/03-Projects.md",
+    "02-Concepts/02-Concepts.md",
+    "01-Languages/01-Languages.md",
+    "07-Daily",
+    "06-School",
+    "05-Career",
+    "04-Resources",
+    "03-Projects",
+    "02-Concepts",
+    "01-Languages",
+    "[[.md",
+    "title_ascii_img.png"
   ]
 }
