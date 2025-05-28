@@ -1,4 +1,5 @@
 #readme
+[Date :: 05-27-2025]
 # Welcome to...
 
 ![[title_ascii_img.png]]
@@ -62,6 +63,8 @@ Setting up this repository locally for Obsidian is pretty easy. Here's how you d
 
 In order to organize so much "generalized" data, there exists a tagging system. Below is an itemized list of such tags with when and what to tag with each:
 
+- #hallway 
+	- This is how I mark Meta files in each respective Hallway. These Meta files contain descriptions or table-of-contents and the like for the respective folders everything is organized in. If you're confused by what a hallway is, the `01-Languages` folder is an example. I'm just referring to these topic folders and calling them that. Sounds more fancy.
 - #language/
 	- Mark what programming language this note is relevant towards
 - #concept/
@@ -74,6 +77,8 @@ In order to organize so much "generalized" data, there exists a tagging system. 
 		- Mark a note of relevance to a software architecture
 	- #concept/design-pattern
 		- Mark a note of relevance to a design-pattern
+		#concept/machine-learning 
+		- Mark a note of relevance to machine-learning, LLM, AI, etc.
 - #project/
 	- Mark a note relevant to a current project (or a future one)
 	- #project/active
@@ -96,5 +101,7 @@ In order to organize so much "generalized" data, there exists a tagging system. 
 	- This is related to my previous education in Computer Science or current.
 	- #school/project/ 
 		- A project I worked on for school and more about it
+- #troubleshoot/ 
+	- Common fixes for dumb stuff. Helps me organize all those stack-over-flow pages
 - #daily-note/
 	- Unorganized thought bubble I want to organize somewhere

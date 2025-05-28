@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01-Languages/01-Languages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01-Languages"
             }
           }
         ]
@@ -54,7 +54,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -171,23 +171,30 @@
   },
   "active": "12dd66c35b57a52a",
   "lastOpenFiles": [
-    "04-Resources/Online/Ascii Art Generator.md",
-    "README.md",
-    "04-Resources/Online",
-    "07-Daily/07-Daily.md",
-    "06-School/06-School.md",
-    "05-Career/05-Career.md",
-    "04-Resources/04-Resources.md",
-    "03-Projects/03-Projects.md",
-    "02-Concepts/02-Concepts.md",
+    "01-Languages/Git/Troubleshooting/Git-CRLF-To-LF-Error-Message.md",
     "01-Languages/01-Languages.md",
+    "02-Concepts/02-Concepts.md",
+    "03-Projects/03-Projects.md",
+    "04-Resources/Online/Ascii-Art-Generator.md",
+    "04-Resources/Online/course.fast.ai.md",
+    "04-Resources/04-Resources.md",
+    "05-Career/05-Career.md",
+    "06-School/06-School.md",
+    "07-Daily/05-28-2025.md",
+    "07-Daily/07-Daily.md",
+    "README.md",
+    "08-CodeWars/08-CodeWars.md",
+    "01-Languages/Git/Troubleshooting",
+    "01-Languages/Git/Untitled.md",
+    "01-Languages/Git",
+    "04-Resources/Articles",
+    "04-Resources/Courses",
+    "04-Resources/Tools",
+    "04-Resources/Books",
+    "04-Resources/AI",
+    "08-CodeWars",
+    "04-Resources/Online",
     "07-Daily",
-    "06-School",
-    "05-Career",
-    "04-Resources",
-    "03-Projects",
-    "02-Concepts",
-    "01-Languages",
     "[[.md",
     "title_ascii_img.png"
   ]
