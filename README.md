@@ -103,5 +103,9 @@ In order to organize so much "generalized" data, there exists a tagging system. 
 		- A project I worked on for school and more about it
 - #troubleshoot/ 
 	- Common fixes for dumb stuff. Helps me organize all those stack-over-flow pages
+- #codewars/ 
+	- This is related to my CodeWars account and all that I've done on there
+	- #codewars/kata #codewars/solution #codewars/8kyu
+		- Tagging CodeWars stuff
 - #daily-note/
 	- Unorganized thought bubble I want to organize somewhere
