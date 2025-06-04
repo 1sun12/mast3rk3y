@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Resources/Tools/Warp.md",
+                "file": "04-Resources/AI/Nvim-Enhancements-Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Warp"
+              "title": "Nvim-Enhancements-Prompt"
             }
           }
         ]
@@ -171,15 +171,22 @@
   },
   "active": "12dd66c35b57a52a",
   "lastOpenFiles": [
-    "04-Resources/04-Resources.md",
-    "04-Resources/Tools/Warp.md",
-    "08-CodeWars/Kata/Convert-A-Number-To-A-String.md",
+    "04-Resources/Books/Effective-C-Second-Edition/1-chapter.md",
+    "04-Resources/Books/Effective-C-Second-Edition/About.md",
+    "04-Resources/Books/Effective-C-Second-Edition",
+    "Templates/kata-template.md",
+    "04-Resources/AI/Nvim-Enhancements-Prompt.md",
+    "08-CodeWars/Kata/Untitled.md",
+    "08-CodeWars/Kata/Welcome-To-The-City.md",
+    "Templates",
     "08-CodeWars/Kata/Are-They-Opposite.md",
+    "04-Resources/Tools/Warp.md",
+    "04-Resources/04-Resources.md",
+    "08-CodeWars/Kata/Convert-A-Number-To-A-String.md",
     "08-CodeWars/Kata/Counting-Duplicates.md",
     "08-CodeWars/Kata/Descending-Order.md",
     "08-CodeWars/Kata/Even-Or-Odd.md",
     "08-CodeWars/Kata/How-Good-Are-You-Really.md",
-    "08-CodeWars/Kata/Welcome-To-The-City.md",
     "08-CodeWars/08-CodeWars.md",
     "README.md",
     "01-Languages/01-Languages.md",
@@ -194,16 +201,12 @@
     "07-Daily/05-28-2025.md",
     "07-Daily/07-Daily.md",
     "01-Languages/Git/Troubleshooting",
-    "01-Languages/Git/Untitled.md",
     "01-Languages/Git",
     "04-Resources/Articles",
     "04-Resources/Courses",
     "04-Resources/Tools",
     "04-Resources/Books",
     "04-Resources/AI",
-    "08-CodeWars",
-    "04-Resources/Online",
-    "[[.md",
     "title_ascii_img.png"
   ]
 }
