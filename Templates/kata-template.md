@@ -2,8 +2,14 @@
 [Date :: {{date:MM-DD-YYYY}}]
 [Link :: [Link]({{kata_url}})]
 
-My {{Language}} Solution:
+## Solution:
+---
+
 ```{{language}}
 
 ```
 
+## What I Learned?
+---
+
+{{what I learned?}}
