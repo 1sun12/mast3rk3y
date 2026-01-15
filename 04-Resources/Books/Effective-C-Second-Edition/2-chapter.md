@@ -52,3 +52,5 @@
     - you should always specific a type for enums
     - Ex.
     - enum day : unsigned int {...}
+
+- read about a 'restrict-qualified-pointer' here [[restrict.c]]
