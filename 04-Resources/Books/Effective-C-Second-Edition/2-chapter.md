@@ -1,3 +1,5 @@
+#resource/book
+[Date :: 05-27-2025]
 # Chapter 2 - Objects, Functions, and Types
 
 - there are only two types in C: objects and functions

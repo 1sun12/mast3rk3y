@@ -1,6 +1,3 @@
-#hallway
-[Date :: 05-27-2025]
-
 ```dataview
 TABLE
   date as "Created",
@@ -9,20 +6,19 @@ TABLE
     join(file.inlinks, ", "),
     "NA"
   ) as "Mentions", Link
-FROM "01-Languages"
+FROM "a"
 ```
 
 ## Needs Tag!
 ```dataview
 TABLE
-FROM "01-Languages"
+FROM "a"
 WHERE length(file.tags) = 0
 ```
 
 ## Needs Date!
 ```dataview
 TABLE
-FROM "01-Languages"
+FROM "a"
 WHERE !Date
 ```
-

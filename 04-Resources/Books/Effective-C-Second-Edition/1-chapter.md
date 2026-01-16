@@ -1,3 +1,5 @@
+#resource/book 
+[Date :: 05-27-2025]
 # Chapter 1 
 
 - the most effective way to learn C is to write C programs

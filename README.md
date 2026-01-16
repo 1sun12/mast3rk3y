@@ -1,3 +1,5 @@
+#readme 
+[Date :: 01-15-2026]
 # Welcome to...
 
 ![Mast3rk3y](title_ascii_img.png)

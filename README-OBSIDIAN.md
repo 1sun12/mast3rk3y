@@ -63,49 +63,28 @@ Setting up this repository locally for Obsidian is pretty easy. Here's how you d
 
 In order to organize so much "generalized" data, there exists a tagging system. Below is an itemized list of such tags with when and what to tag with each:
 
-- #hallway 
-	- This is how I mark Meta files in each respective Hallway. These Meta files contain descriptions or table-of-contents and the like for the respective folders everything is organized in. If you're confused by what a hallway is, the `01-Languages` folder is an example. I'm just referring to these topic folders and calling them that. Sounds more fancy.
-- #language/
-	- Mark what programming language this note is relevant towards
-- #concept/
-	- Mark what computer science fundamental this goes over:
-	- #concept/algorithm/
-		- Mark a note of relevance to a specific algorithm
-	- #concept/data-structure
-		- Mark a note of relevance to a specific data-structure
-	- #concept/architecture
-		- Mark a note of relevance to a software architecture
-	- #concept/design-pattern
-		- Mark a note of relevance to a design-pattern
-		#concept/machine-learning 
-		- Mark a note of relevance to machine-learning, LLM, AI, etc.
-- #project/
-	- Mark a note relevant to a current project (or a future one)
-	- #project/active
-		- Project that I am currently working on
-	- #project/complete
-		- Project I am finished with
-- #status/
-	- Convey where I am with something
-	- #status/draft , #status/complete , #status/review , #status/in-progress
-		- Different ways to convey that status
-- #resource/
-	- This could be a book, online course, YouTube video, stack-overflow page, etc...
-	- #resource/book , #resource/course , #resource/tool , #resource/online , #resource/ai , #resource/article
-		- Different ways to convey a resource
-- #career/
-	- This is related to job searches, updating my resume, stuff I learn on the job, stuff learned for a job, certification exams, etc...
-	- #career/resume , #career/portfolio 
-		- Different ways to convey career relevance
-- #school/
-	- This is related to my previous education in Computer Science or current.
-	- #school/project/ 
-		- A project I worked on for school and more about it
-- #troubleshoot/ 
-	- Common fixes for dumb stuff. Helps me organize all those stack-over-flow pages
-- #codewars/ 
-	- This is related to my CodeWars account and all that I've done on there
-	- #codewars/kata #codewars/solution #codewars/8kyu
-		- Tagging CodeWars stuff
-- #daily-note/
-	- Unorganized thought bubble I want to organize somewhere
+```dataview
+TABLE WITHOUT ID 
+    split(T, "/")[0] AS "Category",
+    T AS "Full Tag", 
+    length(rows) AS "Count"
+FROM ""
+FLATTEN file.tags AS T
+GROUP BY T
+SORT split(T, "/")[0] ASC, length(rows) DESC
+```
+
+## Needs Tag! (All of Mast3rk3y)
+```dataview
+TABLE
+WHERE length(file.tags) = 0
+AND !contains(file.path, "Templates")
+```
+
+## Needs Date! (All of Mast3rk3y)
+```dataview
+TABLE
+WHERE !Date
+AND !contains(file.name, ".excalidraw")
+AND !contains(file.path, "Templates")
+```

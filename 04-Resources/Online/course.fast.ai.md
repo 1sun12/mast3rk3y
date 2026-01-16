@@ -3,4 +3,4 @@
 
 Open source machine-learning book / e-course for free on the internet
 
-https://course.fast.ai/
+[Link :: [Link](https://course.fast.ai/)]
