@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8dcb4e8c1d27eee4",
+        "id": "4eadbd0fd72dd97a",
         "type": "tabs",
         "children": [
           {
-            "id": "12dd66c35b57a52a",
+            "id": "7c4b6a438e105860",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "08-CodeWars/Kata/Remove-String-Spaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "526851a956d7a592",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "Remove-String-Spaces"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,8 +172,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "526851a956d7a592",
+  "active": "7c4b6a438e105860",
   "lastOpenFiles": [
+    "08-CodeWars/Draw-Kata.excalidraw.md",
+    "08-CodeWars/Kata/Remove-String-Spaces.md",
+    "Pasted Image 20260116114256_261.png",
+    "Pasted Image 20260116112029_019.png",
+    "08-CodeWars/08-CodeWars.md",
+    "Templates/kata-template.md",
+    "08-CodeWars/Kata/Ones-And-Zeroes.md",
+    "08-CodeWars/Kata/Welcome-To-The-City.md",
+    "08-CodeWars/Kata/Are-They-Opposite.md",
+    "README.md",
     "README-OBSIDIAN.md",
     "04-Resources/Books/Effective-C-Second-Edition/2-chapter.md",
     "01-Languages/01-Languages.md",
@@ -198,23 +193,14 @@
     "05-Career/05-Career.md",
     "06-School/06-School.md",
     "07-Daily/07-Daily.md",
-    "08-CodeWars/08-CodeWars.md",
     "03-Projects/Draw-Project-Architecture.excalidraw.md",
     "07-Daily/05-28-2025.md",
     "Templates/hallway-template.md",
     "Templates/stamp-date-template.md",
-    "README.md",
-    "Templates/kata-template.md",
     "04-Resources/Youtube/Writing-A-Packet-Sniffer-From-Scratch-In-C.md",
     "04-Resources/Tools/Warp.md",
     "04-Resources/Books/Effective-C-Second-Edition/1-chapter.md",
     "04-Resources/AI/Nvim-Enhancements-Prompt.md",
-    "01-Languages/Git/Troubleshooting/Git-CRLF-To-LF-Error-Message.md",
-    "04-Resources/Online/Ascii-Art-Generator.md",
-    "04-Resources/Online/course.fast.ai.md",
-    "04-Resources/Online/Dataview-Full-Reference.md",
-    "08-CodeWars/Kata/Are-They-Opposite.md",
-    "04-Resources/Books/Effective-C-Second-Edition/About.md",
     "04-Resources/Youtube",
     "title_ascii_img.png",
     "04-Resources/Books/Effective-C-Second-Edition",
