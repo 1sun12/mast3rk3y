@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4eadbd0fd72dd97a",
+        "id": "cd6068eb9f33bb78",
         "type": "tabs",
         "children": [
           {
-            "id": "7c4b6a438e105860",
+            "id": "a55c83284017551a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,20 +172,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a88e0c69336f63e8",
+  "active": "a55c83284017551a",
   "lastOpenFiles": [
+    "Templates/kata-template.md",
+    "README-OBSIDIAN.md",
+    "08-CodeWars/Draw-Kata.excalidraw.md",
+    "Images/Pasted Image 20260116112029_019.png",
+    "Images/Pasted Image 20260116114256_261.png",
+    "08-CodeWars/08-CodeWars.md",
+    "Images",
     "hi.png",
     "08-CodeWars/Kata/Remove-String-Spaces.md",
-    "08-CodeWars/Draw-Kata.excalidraw.md",
-    "Pasted Image 20260116114256_261.png",
-    "Pasted Image 20260116112029_019.png",
-    "08-CodeWars/08-CodeWars.md",
-    "Templates/kata-template.md",
     "08-CodeWars/Kata/Ones-And-Zeroes.md",
     "08-CodeWars/Kata/Welcome-To-The-City.md",
     "08-CodeWars/Kata/Are-They-Opposite.md",
     "README.md",
-    "README-OBSIDIAN.md",
     "04-Resources/Books/Effective-C-Second-Edition/2-chapter.md",
     "01-Languages/01-Languages.md",
     "02-Concepts/02-Concepts.md",
@@ -211,7 +212,6 @@
     "01-Languages/Git",
     "04-Resources/Articles",
     "04-Resources/Courses",
-    "04-Resources/Tools",
-    "04-Resources/Books"
+    "04-Resources/Tools"
   ]
 }
