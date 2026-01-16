@@ -1,0 +1,6 @@
+# ignore excal-drawings - takes up to much space in repo
+*.excalidraw
+
+# ignore image files - takes up to much space in repo
+*.png
+*.jpg

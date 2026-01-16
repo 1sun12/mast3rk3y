@@ -1,0 +1,6 @@
+# ignore excal-drawings - to much space
+*.excalidraw
+
+# ignore imagines files - to much space
+*.png
+*.jpg

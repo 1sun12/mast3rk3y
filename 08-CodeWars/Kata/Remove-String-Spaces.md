@@ -1,4 +1,4 @@
-#codewars/kata #codewars/7kyu #codewars/lang/c 
+#codewars/kata #codewars/8kyu #codewars/lang/c 
 [Date :: 01-16-2026]
 [Link :: [Link](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/c)]
 

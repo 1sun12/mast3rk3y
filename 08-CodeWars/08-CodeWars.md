@@ -29,6 +29,7 @@ WHERE length(file.tags) = 0
 TABLE
 FROM "08-CodeWars"
 WHERE !Date
+AND !contains(file.name, ".excalidraw")
 ```
 
 
