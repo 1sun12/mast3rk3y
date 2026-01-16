@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README-OBSIDIAN.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README-OBSIDIAN"
+              "title": "README"
             }
           }
         ],
@@ -189,8 +189,8 @@
   },
   "active": "526851a956d7a592",
   "lastOpenFiles": [
-    "04-Resources/Books/Effective-C-Second-Edition/2-chapter.md",
     "README-OBSIDIAN.md",
+    "04-Resources/Books/Effective-C-Second-Edition/2-chapter.md",
     "01-Languages/01-Languages.md",
     "02-Concepts/02-Concepts.md",
     "03-Projects/03-Projects.md",

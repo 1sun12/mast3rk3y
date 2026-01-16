@@ -40,6 +40,7 @@ That's all I have to say on this for now. I will end with a quote here that I su
 | `05-Career`    | Job-related content          |
 | `06-School`    | Education-related            |
 | `07-Daily`     | Daily notes                  |
+| `08-CodeWars`  | Coding challenges            |
 
 ## Installing / Setup
 ---
