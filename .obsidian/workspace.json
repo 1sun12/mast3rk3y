@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cd6068eb9f33bb78",
+        "id": "15e5110227f09f34",
         "type": "tabs",
         "children": [
           {
-            "id": "a55c83284017551a",
+            "id": "afed971002a76a63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "08-CodeWars/08-CodeWars.md",
-                "mode": "source",
-                "source": false
+                "file": "03-Projects/Draw-Project-Architecture.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "08-CodeWars"
+              "icon": "excalidraw-icon",
+              "title": "Draw-Project-Architecture.excalidraw"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 357.5
   },
   "right": {
     "id": "b1d019d6848b7fa9",
@@ -172,14 +170,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a55c83284017551a",
+  "active": "afed971002a76a63",
   "lastOpenFiles": [
+    "02-Concepts/Software-Methodologies/Ceramic.md",
+    "04-Resources/Cheatsheets/Box-Ascii-Characters-Cheat-Sheet.md",
+    "03-Projects/Draw-Project-Architecture.excalidraw.md",
+    "04-Resources/Cheatsheets",
+    "04-Resources/Untitled.md",
+    "02-Concepts/Software-Methodologies/solo-dev-methodology.md",
+    "02-Concepts/Software-Methodologies",
+    "02-Concepts/Untitled Folder",
+    "02-Concepts/solo-dev-methodology.md",
+    "03-Projects/Sniffy.md",
+    "03-Projects/03-Projects.md",
+    "04-Resources/Tools/Warp.md",
+    "04-Resources/Books/Effective-C-Second-Edition/1-chapter.md",
+    "08-CodeWars/08-CodeWars.md",
     "Templates/kata-template.md",
     "README-OBSIDIAN.md",
     "08-CodeWars/Draw-Kata.excalidraw.md",
     "Images/Pasted Image 20260116112029_019.png",
     "Images/Pasted Image 20260116114256_261.png",
-    "08-CodeWars/08-CodeWars.md",
     "Images",
     "hi.png",
     "08-CodeWars/Kata/Remove-String-Spaces.md",
@@ -190,28 +201,16 @@
     "04-Resources/Books/Effective-C-Second-Edition/2-chapter.md",
     "01-Languages/01-Languages.md",
     "02-Concepts/02-Concepts.md",
-    "03-Projects/03-Projects.md",
     "04-Resources/04-Resources.md",
     "05-Career/05-Career.md",
     "06-School/06-School.md",
     "07-Daily/07-Daily.md",
-    "03-Projects/Draw-Project-Architecture.excalidraw.md",
-    "07-Daily/05-28-2025.md",
-    "Templates/hallway-template.md",
-    "Templates/stamp-date-template.md",
-    "04-Resources/Youtube/Writing-A-Packet-Sniffer-From-Scratch-In-C.md",
-    "04-Resources/Tools/Warp.md",
-    "04-Resources/Books/Effective-C-Second-Edition/1-chapter.md",
-    "04-Resources/AI/Nvim-Enhancements-Prompt.md",
     "04-Resources/Youtube",
     "title_ascii_img.png",
     "04-Resources/Books/Effective-C-Second-Edition",
     "Templates",
     "08-CodeWars/Kata",
     "01-Languages/Git/Troubleshooting",
-    "01-Languages/Git",
-    "04-Resources/Articles",
-    "04-Resources/Courses",
-    "04-Resources/Tools"
+    "01-Languages/Git"
   ]
 }
