@@ -11,12 +11,14 @@
             "id": "afed971002a76a63",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "03-Projects/Draw-Project-Architecture.excalidraw.md"
+                "file": "08-CodeWars/Collections/C-Daily-Boss-Rush.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Draw-Project-Architecture.excalidraw"
+              "icon": "lucide-file",
+              "title": "C-Daily-Boss-Rush"
             }
           }
         ]
@@ -172,9 +174,17 @@
   },
   "active": "afed971002a76a63",
   "lastOpenFiles": [
+    "08-CodeWars/08-CodeWars.md",
+    "08-CodeWars/Collections/C-Daily-Boss-Rush.md",
+    "08-CodeWars/Kata/Convert-A-Boolean-To-A-String.md",
+    "Templates/collections-template.md",
+    "Templates/kata-template.md",
+    "08-CodeWars/Kata/Count-Characters-In-Your-String.md",
+    "08-CodeWars/Draw-Kata.excalidraw.md",
+    "08-CodeWars/Collections",
+    "03-Projects/Draw-Project-Architecture.excalidraw.md",
     "02-Concepts/Software-Methodologies/Ceramic.md",
     "04-Resources/Cheatsheets/Box-Ascii-Characters-Cheat-Sheet.md",
-    "03-Projects/Draw-Project-Architecture.excalidraw.md",
     "04-Resources/Cheatsheets",
     "04-Resources/Untitled.md",
     "02-Concepts/Software-Methodologies/solo-dev-methodology.md",
@@ -185,10 +195,7 @@
     "03-Projects/03-Projects.md",
     "04-Resources/Tools/Warp.md",
     "04-Resources/Books/Effective-C-Second-Edition/1-chapter.md",
-    "08-CodeWars/08-CodeWars.md",
-    "Templates/kata-template.md",
     "README-OBSIDIAN.md",
-    "08-CodeWars/Draw-Kata.excalidraw.md",
     "Images/Pasted Image 20260116112029_019.png",
     "Images/Pasted Image 20260116114256_261.png",
     "Images",
@@ -201,16 +208,11 @@
     "04-Resources/Books/Effective-C-Second-Edition/2-chapter.md",
     "01-Languages/01-Languages.md",
     "02-Concepts/02-Concepts.md",
-    "04-Resources/04-Resources.md",
-    "05-Career/05-Career.md",
-    "06-School/06-School.md",
-    "07-Daily/07-Daily.md",
     "04-Resources/Youtube",
     "title_ascii_img.png",
     "04-Resources/Books/Effective-C-Second-Edition",
     "Templates",
     "08-CodeWars/Kata",
-    "01-Languages/Git/Troubleshooting",
-    "01-Languages/Git"
+    "01-Languages/Git/Troubleshooting"
   ]
 }
