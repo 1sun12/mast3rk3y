@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-CodeWars/Collections/C-Daily-Boss-Rush.md",
+                "file": "04-Resources/Github/Build-Your-Own-X.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C-Daily-Boss-Rush"
+              "title": "Build-Your-Own-X"
             }
           }
         ]
@@ -174,8 +174,10 @@
   },
   "active": "afed971002a76a63",
   "lastOpenFiles": [
-    "08-CodeWars/08-CodeWars.md",
     "08-CodeWars/Collections/C-Daily-Boss-Rush.md",
+    "04-Resources/Github/Build-Your-Own-X.md",
+    "04-Resources/Github",
+    "08-CodeWars/08-CodeWars.md",
     "08-CodeWars/Kata/Convert-A-Boolean-To-A-String.md",
     "Templates/collections-template.md",
     "Templates/kata-template.md",
@@ -207,12 +209,10 @@
     "README.md",
     "04-Resources/Books/Effective-C-Second-Edition/2-chapter.md",
     "01-Languages/01-Languages.md",
-    "02-Concepts/02-Concepts.md",
     "04-Resources/Youtube",
     "title_ascii_img.png",
     "04-Resources/Books/Effective-C-Second-Edition",
     "Templates",
-    "08-CodeWars/Kata",
-    "01-Languages/Git/Troubleshooting"
+    "08-CodeWars/Kata"
   ]
 }
